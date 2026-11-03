@@ -21,7 +21,7 @@ Because the history is shared, **every change of a feature — code, tests, SQL,
 
 | Name | Value | Meaning |
 |------|-------|---------|
-| `GIT_REPO` | `E:\Work\Hirate\github\VB_DevTeam` | Root of the single git repository (contains `.claude\`, `CLAUDE.md`, and the customer's program) |
+| `GIT_REPO` | `C:\OKAMURA` | Root of the single git repository (contains `.claude\`, `CLAUDE.md`, and the customer's program) |
 
 This is the only machine-specific value. Everything else is derived from it.
 

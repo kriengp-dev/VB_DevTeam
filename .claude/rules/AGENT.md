@@ -245,4 +245,6 @@ First vb-backend-developer, then db-developer (when the plan already fixes the s
 
 **Output:** `<DOC_DIR>/requirements_trace_<feature>.md`
 
+**Spec digest (`/specanalyze`):** also the agent that turns the customer's documents in `<CUSTOMER_DOC_DIR>` into one Markdown digest with numbered `CD-…` requirements (mode `spec-digest`). The user names the output file each time; it is written next to the source document, which stays untouched.
+
 **Called after:** the developer agents finish. May run in parallel with vb-reviewer.
