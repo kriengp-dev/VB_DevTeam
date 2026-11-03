@@ -1,0 +1,8 @@
+# build output and local artifacts of the test projects
+bin/
+obj/
+TestResults/
+packages/
+*.user
+*.suo
+.vs/

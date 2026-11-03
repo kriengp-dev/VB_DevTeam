@@ -1,0 +1,18 @@
+# Python bytecode (the .claude skills and hooks are Python scripts)
+__pycache__/
+*.pyc
+
+# Visual Studio / .NET build output and local files (customer area and the test projects)
+.vs/
+bin/
+obj/
+packages/
+TestResults/
+*.user
+*.suo
+
+# local scratch
+*.log
+
+# savememo lock file
+.claude/doc/KNOWHOW.md.lock
